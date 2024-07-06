@@ -1,7 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++           16 hrs 51 mins  ██████████████▒░░░░░░░░░░   57.82 %
+CMake         5 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
+PHP           3 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+C             1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+JSON          55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 ```
 
 <!--END_SECTION:waka-->
