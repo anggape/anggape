@@ -1,10 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash    5 mins          ██████████████████▓░░░░░░   74.26 %
-zsh     0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
-Text    0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
